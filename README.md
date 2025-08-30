@@ -8,7 +8,7 @@ It includes data preprocessing, evaluation metrics, cross-validation, and visual
 ## ✨ My Learning Journey
 I started learning some **Machine Learning concepts** through SoloLearn, and this project is one of my learnings on **Decision Trees**.  
 
-The inspiration and base idea came from SoloLearn. When I began working on this, I was still exploring the concepts that would be applied here — like basic **pandas** for data handling and **Graphviz** for tree visualization (I’ll deep dive into them later, since I believe in *learning by doing* 😅).  
+The inspiration and base idea came from SoloLearn. When I began working on this, I was still exploring the concepts that would be applied here — like basic **pandas** for data handling and **Graphviz** for tree visualization (I’ll deep dive into them later, since I believe in *learning by doing* ).  
 
 For this project, I used the [SoloLearn Titanic dataset](https://sololearn.com/uploads/files/titanic.csv), since it doesn’t contain any missing values.  
 
